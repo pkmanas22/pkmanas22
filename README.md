@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my web developement projects are available at [My Web Dev Projects](https://pkmanas22.github.io/responsive-web-design-FreeCodeCamp/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkmanas22" alt="pkmanas22" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pkmanas22" target="blank"><img src="https://img.shields.io/twitter/follow/pkmanas22?logo=twitter&style=for-the-badge" alt="pkmanas22" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
