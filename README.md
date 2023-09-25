@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas</h1>
-<h3 align="center">An aspiring developer from India, new to the field and eagerly learning.</h3>
+<h3 align="center">An aspiring developer from India, currently in the 5th semester and enthusiastic about learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkmanas22&label=Profile%20views&color=0e75b6&style=flat" alt="pkmanas22" /> </p>
 
