@@ -15,13 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/pkmanas22" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pkmanas22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pkmanas22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pkmanas22" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pkmanas22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pkmanas22" height="30" width="40" /></a>
 <a href="https://instagram.com/pkmanas22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pkmanas22" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pkmanas22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pkmanas22" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pkmanas22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pkmanas22" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pkmanas22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pkmanas22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pkmanas22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pkmanas22" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@pkamanas22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pkamanas22" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<pkmanas22>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<pkmanas22>" height="30" width="40" /></a>
 </p>
 
