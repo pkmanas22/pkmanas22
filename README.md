@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://manaskpradhan.vercel.app/](https://manaskpradhan.vercel.app/)
 
-- 📄 Know about my experiences [Manas](https://manaskpradhan.vercel.app/Resume_Manas_Kumar_Pradhan.pdf)
+- 📄 Know about my experiences [My Resume](https://manaskpradhan.vercel.app/Resume_Manas_Kumar_Pradhan.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
