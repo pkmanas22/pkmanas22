@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pkmanas22" target="blank"><img src="https://img.shields.io/twitter/follow/pkmanas22?logo=twitter&style=for-the-badge" alt="pkmanas22" /></a> </p>
 
-- 🔭 I’m currently working on **URL Shortner Project**
+- 🔭 Completed the [**URL Shortner Project**](https://github.com/pkmanas22/URL-Shortner) 
 
 - 🌱 I’m currently learning **Web Development (React)**
 
