@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manas</h1>
+<h1 align="center">Hi 👋, I'm Manas Kumar Pradhan</h1>
 <h3 align="center">An aspiring developer from India, currently in the 6th semester and enthusiastic about learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkmanas22&label=Profile%20views&color=0e75b6&style=flat" alt="pkmanas22" /> </p>
