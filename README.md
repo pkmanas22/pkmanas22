@@ -9,9 +9,9 @@
 
 - 🔭 Completed the [**URL Shortner Project**](https://github.com/pkmanas22/URL-Shortner) 
 
-- 🌱 I’m currently learning **Web Development (React)**
+- 🌱 I’m currently part of [**hkirat**](https://github.com/hkirat)'s [***Cohort 0-100***](https://github.com/100xdevs-cohort-2)
 
-- 👨‍💻 All of my projects are available at [https://manaskpradhan.vercel.app/](https://manaskpradhan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://manaskpradhan.vercel.app/](https://manaskpradhan.vercel.app/) (Using HTML + CSS)
 
 - 📄 Know about my experiences [My Resume](https://manaskpradhan.vercel.app/Resume_Manas_Kumar_Pradhan.pdf)
 
