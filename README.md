@@ -9,7 +9,7 @@
 
 - 🔭 Completed the [**URL Shortner Project**](https://github.com/pkmanas22/URL-Shortner) 
 
-- 🌱 I’m currently part of [**hkirat**](https://github.com/hkirat)'s [***Cohort 0-100***](https://github.com/100xdevs-cohort-2)
+- 🌱 I’m currently part of [**hkirat**](https://github.com/hkirat)'s [***Cohort 0-100***](https://github.com/pkmanas22/Cohort-all-codes)
 
 - 👨‍💻 All of my projects are available at [https://manaskpradhan.vercel.app/](https://manaskpradhan.vercel.app/) (Using HTML + CSS)
 
