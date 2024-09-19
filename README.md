@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manas Kumar Pradhan</h1>
-<h3 align="center">An aspiring developer from India, currently in the 6th semester and enthusiastic about learning.</h3>
+<h3 align="center">An aspiring developer from India, currently pursuing MCA (2024-26) from Odisha University of Technology and Research, Bhubaneswar .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkmanas22&label=Profile%20views&color=0e75b6&style=flat" alt="pkmanas22" /> </p>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkmanas22" alt="pkmanas22" /></a> </p>-->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pkmanas22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/pkmanas22" target="blank"><img src="https://img.shields.io/twitter/follow/pkmanas22?logo=twitter&style=for-the-badge" alt="pkmanas22" /></a> </p>
 
@@ -31,3 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkmanas22&show_icons=true&locale=en" alt="pkmanas22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkmanas22&" alt="pkmanas22" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pkmanas22&limit=5&theme=dark&combine_all_yearly_contributions=true)
