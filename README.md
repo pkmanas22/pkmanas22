@@ -8,13 +8,16 @@
 
 <p align="left"> <a href="https://twitter.com/pkmanas22" target="blank"><img src="https://img.shields.io/twitter/follow/pkmanas22?logo=twitter&style=for-the-badge" alt="pkmanas22" /></a> </p>
 
+- 🔭 Completed the [**.env.example generator**](https://marketplace.visualstudio.com/items?itemName=manaskpradhan.env-example-generator) 
+- 🔭 Completed the [**Post Palette - A blogging platform**](https://postpalette.vercel.app/) 
 - 🔭 Completed the [**URL Shortner Project**](https://github.com/pkmanas22/URL-Shortner) 
+- 🔭 Completed the [**Instamanas - Social Media Application**](https://instamanas.vercel.app/) 
 
 - 🌱 I’m currently part of [**hkirat**](https://github.com/hkirat)'s [***Cohort 0-100***](https://github.com/pkmanas22/Cohort-all-codes)
 
-- 👨‍💻 All of my projects are available at [https://manaskpradhan.vercel.app/](https://manaskpradhan.vercel.app/) (Using HTML + CSS)
+- 👨‍💻 All my HTML + CSS projects are available at [https://manaskpradhan.vercel.app/](https://manaskpradhan.vercel.app/) (Using HTML + CSS)
 
-- 📄 Know about my experiences [My Resume](https://manaskpradhan.vercel.app/Resume_Manas_Kumar_Pradhan.pdf)
+- 📄 Know about my experiences [My Resume](https://manaskpradhan.vercel.app/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
